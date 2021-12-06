@@ -1,5 +1,4 @@
 
-### Extract HAR files using Chrome  
 
 ```bash
 
