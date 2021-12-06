@@ -1,4 +1,3 @@
-### POC - Use as reference
 
 ### Extract HAR files using Chrome  
 
