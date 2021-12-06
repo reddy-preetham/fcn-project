@@ -20,9 +20,14 @@ python client.py
 #### Headless Chromium
 https://chromium.googlesource.com/chromium/src/+/master/headless/README.md  
 https://docs.google.com/document/d/11zIkKkLBocofGgoTeeyibB2TZ_k7nR78v7kNelCatUE/edit#  
+
 https://chromium.googlesource.com/chromium/src/+/master/third_party/WebKit/Source/core/inspector/browser_protocol.json  
+
 https://github.com/cyrus-and/chrome-har-capturer 
+
 https://github.com/triplewy/quic-benchmarks 
+
 https://github.com/Shenggan/quic_vs_tcp
+
 https://github.com/arashmolavi/quic
 
