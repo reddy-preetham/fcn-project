@@ -22,6 +22,7 @@ https://chromium.googlesource.com/chromium/src/+/master/headless/README.md
 https://docs.google.com/document/d/11zIkKkLBocofGgoTeeyibB2TZ_k7nR78v7kNelCatUE/edit#  
 
 https://chromium.googlesource.com/chromium/src/+/master/third_party/WebKit/Source/core/inspector/browser_protocol.json  
+https://github.com/salvadormrf/python-chrome-har
 
 https://github.com/cyrus-and/chrome-har-capturer 
 
