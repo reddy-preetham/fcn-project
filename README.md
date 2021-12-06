@@ -2,7 +2,6 @@
 ### Extract HAR files using Chrome  
 
 ```bash
-cd python-chrome-har/
 
 # Create virtual environment and install deps
 virtualenv env
