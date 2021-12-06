@@ -16,8 +16,7 @@ pip install -r requirements.txt
 # Run HAR collector
 python client.py
 
-# Open file /tmp/test.har with http://www.softwareishard.com/har/viewer/
-# Have fun
+
 ```
 
 ### Reference Links
