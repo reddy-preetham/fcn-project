@@ -99,6 +99,8 @@ class HAR(object):
             # print(obj['responseMessage']['response'],"--------------------")
             # server_ip_address=""
             # if not obj['responseMessage']['response']['fromDiskCache']:
+            if 'remoteIPAddress' not in obj['responseMessage']['response']:
+                obj['responseMessage']['response']['remoteIPAddress'] = ''
             server_ip_address = obj['responseMessage']['response']['remoteIPAddress']
 
             connection = obj['responseMessage']['response']['connectionId']
